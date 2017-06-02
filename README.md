@@ -1,4 +1,4 @@
-# Anagram
+# Anagrams
 
 When two words can be rearranged to make a different word using all of the letters from the previous word only once, you have an anagram. For example, 'charm' can be rearranged to spell out 'march'. You get the gist.
 
