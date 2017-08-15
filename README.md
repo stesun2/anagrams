@@ -20,4 +20,4 @@ Run your test specs early and often. Also, if you come across a scenario that is
 
 ## Challenge Yourself
 * Account for anagram phrases.
-* Solve this same exercise without using ruby's built-in sort() method.
+* Solve this same exercise without using ruby's built-in `sort` method.
