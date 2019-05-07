@@ -1,3 +1,5 @@
+// Can you translate this driver code to unit tests?
+
 var ana = require("./anagram");
 
 console.log(ana.isAnagram('charm', 'march') === true);
