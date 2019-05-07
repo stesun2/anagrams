@@ -8,8 +8,6 @@ For this challenge you will make a program that determines if two strings are An
 
 ## Example
 Your program should return true for all the following examples...
-
-
 ```
 is_anagram('charm', 'march')
 is_anagram('CharM', 'mARcH')
@@ -20,4 +18,4 @@ Run your test specs early and often. Also, if you come across a scenario that is
 
 ## Challenge Yourself
 * Account for anagram phrases.
-* Solve this same exercise without using python's built-in `sorted` method.
+* Solve this same exercise without using Python's built-in `sorted` method.
